@@ -80,7 +80,7 @@
     "OWNER_NUMBER" : {
      "description" : "Enter your number.",
      "required" : true,
-     "value" : "+237693538738,+237698581946,+22897669189"
+     "value" : "+237673804138"
     },
     "OWNER_NAME" : {
      "description" : "Enter your name.",
